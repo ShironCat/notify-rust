@@ -74,7 +74,7 @@ This library shines on linux and bsd, which is its original target platform.
 Lately it gained support for macOS thanks to [mac-notification-sys](https://crates.io/crates/mac-notification-sys).
 However this only includes a small subset of the current functionality, since [`NSNotification`](https://developer.apple.com/reference/foundation/nsnotification)s don't have as many features.
 
-**call for participation:** You are a versed macOS UI developer with mad Objective-C skillz? <abbr title="pull request sil vous plait">PRSV</abbr>.
+**call for participation:** You are a versed macOS UI developer with mad Objective-C skillz? <abbr title="pull request s’il vous plaît">PRSV</abbr>.
 
 ## Windows support
 Similar to macOS we support windows via the help of [winrt-notification](https://crates.io/crates/winrt-notification).
